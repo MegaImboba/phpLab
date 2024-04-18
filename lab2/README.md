@@ -13,13 +13,13 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   https://github.com/Artiom9/php_labs.git
+   https://github.com/MegaImboba/phplab.git
 2. Запустите проект:
    <!-- Если у вас есть веб-сервер (например, Apache или Nginx), настройте его так, чтобы корневой каталог указывал на
    каталог вашего проекта.  
    Если у вас нет веб-сервера, вы можете использовать встроенный сервер PHP для тестирования: -->
    ```bash 
-   php -S localhost:8000 \lab_2\lab2.php
+   php -S localhost:8000 \SemcovAlexandrLab2\lab2.php
 
 ## 2. Описание проекта
 
