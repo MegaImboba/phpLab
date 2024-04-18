@@ -202,7 +202,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ```
 ## 4. Пример использования проекта (с приложением скриншотов)
 
-![Пример работы программы](sample.jpeg)![](sample1.jpeg)![](sample2.jpeg)![](sample3.jpeg)
+![Пример работы программы](sample.jpg)![](sample1.jpg)![](sample2.jpg)![](sample3.jpg)
 
 ## 5. Список использованных источников
 
